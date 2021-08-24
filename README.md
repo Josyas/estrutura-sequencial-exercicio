@@ -1,1 +1,1 @@
-# estrutura-sequencial-exercicio
+# Estrutura sequencial exercício
